@@ -24,8 +24,6 @@ class Solution {
             arr[i+k]=temp[i];   //copying the element of temp array in given array
         }
 
-
-
     }
 }
 public class Main {
